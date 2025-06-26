@@ -12,8 +12,6 @@ This dashboard explores key behavioral trends in how users listen to albums, art
 - What are the peak listening hours?  
 - How does current year activity compare to the previous year?
 
----
-📄 [View the Spotify Case Study (PDF)](./spotify.pdf)
 
 ---
 
